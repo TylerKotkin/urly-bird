@@ -52,3 +52,6 @@ Logged in birds can see:
 
 ### Worm Pages
 Located at `localhost/worms/worm_id`, where `localhost` is the location of your Django server and `worm_id` is the number associated with that worm. These are more easily accessed through the interface by clicking on the info buttons throughout the site.
+
+
+This project was forked from a group project created by [Tyler Kotkin](https://github.com/TylerKotkin) and [Adam Hartz](https://github.com/ahartz1).
