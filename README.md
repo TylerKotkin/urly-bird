@@ -1,10 +1,10 @@
 # URLy Bird
 
+
 ### A Website to Shorten, Save, and Share URLs
 
-* `localhost/` shows the most recent saved URLs
-* `localhost/worms/worm_id` for each link's page
-* `localhost/birds/bird_id` for each user's page
+##### Click [here](https://urly-bird-tk.herokuapp.com/) to view the live version of URLy Bird.
+
 
 ### System Requirements
 
