@@ -3,7 +3,7 @@
 
 ### A Website to Shorten, Save, and Share URLs
 
-##### Click [here](https://urly-bird-tk.herokuapp.com/) to view the live version of URLy Bird.
+##### Click [here](https://urly-bird-tk.herokuapp.com/) to view the live site.
 
 
 ### System Requirements
